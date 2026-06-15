@@ -1,0 +1,14 @@
+PROYECTO LISTO PARA VISUAL STUDIO CODE Y GITHUB PAGES
+
+1. Extrae este ZIP.
+2. Abre la carpeta "proyecto_visual_studio_code" en Visual Studio Code.
+3. Abre index.html con Live Server o doble clic.
+4. Para GitHub, sube TODO el contenido de esta carpeta al repositorio.
+
+Estructura correcta:
+index.html
+gta6.html
+wolverine.html
+style.css
+script.js
+img/
